@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ứng dụng đọc báo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Phan Đình Yên 21115053020360</string>
+    <string name="thegioi">Thế giới</string>
+    <string name="thoisu">Thời sự</string>
+    <string name="sohoa">Số hoá</string>
+    <string name="kinhdoanh">Kinh doanh</string>
+    <string name="startup">Startup</string>
+    <string name="giaitri">Giải trí</string>
+    <string name="phapluat">Pháp luật</string>
+    <string name="giaoduc">Giáo dục</string>
+    <string name="suckhoe">Sức khoẻ</string>
+    <string name="doisong">Đời sống</string>
+    <string name="dulich">Du lịch</string>
+    <string name="khoahoc">Khoa học</string>
+    <string name="xe">Xe</string>
+    <string name="tamsu">Tâm sự</string>
+    <string name="cuoi">Cười</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

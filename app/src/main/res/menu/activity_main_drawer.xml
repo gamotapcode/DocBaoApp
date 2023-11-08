@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/thegioi"
+            android:icon="@drawable/thegioi"
+            android:title="@string/thegioi" />
+        <item
+            android:id="@+id/thoisu"
+            android:icon="@drawable/thoisu"
+            android:title="@string/thoisu" />
+        <item
+            android:id="@+id/sohoa"
+            android:icon="@drawable/sohoa"
+            android:title="@string/sohoa" />
+        <item
+            android:id="@+id/kinhdoanh"
+            android:icon="@drawable/kinhdoanh"
+            android:title="@string/kinhdoanh" />
+        <item
+            android:id="@+id/startup"
+            android:icon="@drawable/startup"
+            android:title="@string/startup" />
+        <item
+            android:id="@+id/tamsu"
+            android:icon="@drawable/tamsu"
+            android:title="@string/tamsu" />
+        <item
+            android:id="@+id/suckhoe"
+            android:icon="@drawable/suckhoe"
+            android:title="@string/suckhoe" />
+        <item
+            android:id="@+id/phapluat"
+            android:icon="@drawable/phapluat"
+            android:title="@string/phapluat" />
+        <item
+            android:id="@+id/xe"
+            android:icon="@drawable/xe"
+            android:title="@string/xe" />
+        <item
+            android:id="@+id/khoahoc"
+            android:icon="@drawable/khoahoc"
+            android:title="@string/khoahoc" />
+        <item
+            android:id="@+id/giaoduc"
+            android:icon="@drawable/giaoduc"
+            android:title="@string/giaoduc" />
+        <item
+            android:id="@+id/giaitri"
+            android:icon="@drawable/giaitri"
+            android:title="@string/giaitri" />
+        <item
+            android:id="@+id/dulich"
+            android:icon="@drawable/dulich"
+            android:title="@string/dulich" />
+        <item
+            android:id="@+id/doisong"
+            android:icon="@drawable/doisong"
+            android:title="@string/doisong" />
+        <item
+            android:id="@+id/cuoi"
+            android:icon="@drawable/cuoi"
+            android:title="@string/cuoi" />
+    </group>
+</menu>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/thegioi">
+
+    <fragment
+        android:id="@+id/thoisu"
+        android:name="com.example.myapplication.ui.thoisu.ThoiSuFragment"
+        android:label="@string/thoisu"
+        tools:layout="@layout/fragment_thoisu" />
+
+    <fragment
+        android:id="@+id/thegioi"
+        android:name="com.example.myapplication.ui.thegioi.TheGioiFragment"
+        android:label="@string/thegioi"
+        tools:layout="@layout/fragment_thegioi" />
+
+    <fragment
+        android:id="@+id/sohoa"
+        android:name="com.example.myapplication.ui.sohoa.SoHoaFragment"
+        android:label="@string/sohoa"
+        tools:layout="@layout/fragment_sohoa" />
+    <fragment
+        android:id="@+id/cuoi"
+        android:name="com.example.myapplication.ui.cuoi.CuoiFragment"
+        android:label="@string/cuoi"
+        tools:layout="@layout/fragment_cuoi" />
+    <fragment
+        android:id="@+id/doisong"
+        android:name="com.example.myapplication.ui.doisong.DoiSongFragment"
+        android:label="@string/doisong"
+        tools:layout="@layout/fragment_doi_song" />
+    <fragment
+        android:id="@+id/dulich"
+        android:name="com.example.myapplication.ui.dulich.DuLichFragment"
+        android:label="@string/dulich"
+        tools:layout="@layout/fragment_du_lich" />
+    <fragment
+        android:id="@+id/giaoduc"
+        android:name="com.example.myapplication.ui.giaoduc.GiaoDucFragment"
+        android:label="@string/giaoduc"
+        tools:layout="@layout/fragment_giao_duc" />
+    <fragment
+        android:id="@+id/giaitri"
+        android:name="com.example.myapplication.ui.giaitri.GiaiTriFragment"
+        android:label="@string/giaitri"
+        tools:layout="@layout/fragment_giai_tri" />
+    <fragment
+        android:id="@+id/khoahoc"
+        android:name="com.example.myapplication.ui.khoahoc.KhoaHocFragment"
+        android:label="@string/khoahoc"
+        tools:layout="@layout/fragment_khoa_hoc" />
+    <fragment
+        android:id="@+id/phapluat"
+        android:name="com.example.myapplication.ui.phapluat.PhapLuatFragment"
+        android:label="@string/phapluat"
+        tools:layout="@layout/fragment_phap_luat" />
+    <fragment
+        android:id="@+id/startup"
+        android:name="com.example.myapplication.ui.startup.StartUpFragment"
+        android:label="@string/startup"
+        tools:layout="@layout/fragment_start_up" />
+    <fragment
+        android:id="@+id/suckhoe"
+        android:name="com.example.myapplication.ui.suckhoe.SucKhoeFragment"
+        android:label="@string/suckhoe"
+        tools:layout="@layout/fragment_suc_khoe" />
+    <fragment
+        android:id="@+id/tamsu"
+        android:name="com.example.myapplication.ui.tamsu.TamSuFragment"
+        android:label="@string/tamsu"
+        tools:layout="@layout/fragment_tam_su" />
+    <fragment
+        android:id="@+id/xe"
+        android:name="com.example.myapplication.ui.xe.XeFragment"
+        android:label="@string/xe"
+        tools:layout="@layout/fragment_xe" />
+    <fragment
+        android:id="@+id/kinhdoanh"
+        android:name="com.example.myapplication.ui.kinhdoanh.KinhDoanhFragment"
+        android:label="@string/kinhdoanh"
+        tools:layout="@layout/fragment_kinh_doanh" />
+
+</navigation>
